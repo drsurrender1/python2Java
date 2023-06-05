@@ -1,0 +1,17 @@
+Name: Yicheng Xu
+Student Number: 1004749944
+
+Group Members: Jinhan Bao and Yicheng Xu
+Sprint: 4
+
+Before April 5:
+- discussed with Jinhan and restructured PYGen data structure
+- completed loop fusion
+- completed dead code elimination
+
+April 7 - 8:
+- discussed with Jinhan and completed ArrayList optimization
+- optimized functionality, now it supports merge while loop based on update step
+- wrote part of the report 
+
+my contribution: around 55%
