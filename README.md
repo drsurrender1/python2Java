@@ -8,7 +8,7 @@ This project is a Java to Python compiler that aims to translate Java code into 
 ### Translation of Java Code: 
 The compiler is capable of converting Java code to Python code, ensuring the functionality and logic of the original Java program are preserved in the translated Python code.
 
-###Proficient Java to Python Compiler Developer: 
+### Proficient Java to Python Compiler Developer: 
 The project is led by an experienced developer who specializes in Java to Python compilation. The developer has a strong understanding of the entire compilation process, including tokenization, abstract syntax tree (AST) generation, type checking, intermediate representation (IR) generation, and Python code generation.
 
 ### Data Type Support: 
